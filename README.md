@@ -4,7 +4,9 @@
 
 🔍 Seeking my first professional opportunity in the **Information Technology** field. I am highly interested in **software development**.  
 
-📚 Currently improving my **Python** skills through the **Python Impressionador** course by Hashtag Treinamentos (50% completed).  
+📚 Currently improving my **Python** skills through the **Python Impressionador** course by Hashtag Treinamentos (50% completed).
+
+📚 Also improving my **JS** skills through the **JavaScript RestAPI** course by Udemy Academy.  
 
 ## 🚀 Technologies  
 
