@@ -1,12 +1,8 @@
 # 💻 Leonardo Chiari Maciel  
 
-🎓 **Information Systems Student** at **Federal University of Minas Gerais (UFMG)**, currently in my 4th semester. Passionate about technology and always looking for new learning opportunities.  
+🎓 Information Systems Student at Federal University of Minas Gerais (UFMG), currently in my 4th semester. Passionate about technology and always looking for new learning opportunities.
 
-🔍 Seeking my first professional opportunity in the **Information Technology** field. I am highly interested in **software development**.  
-
-📚 Currently improving my **Python** skills through the **Python Impressionador** course by Hashtag Treinamentos (50% completed).
-
-📚 Also improving my **JS** skills through the **JavaScript RestAPI** course by Udemy Academy.  
+💼 Working as a Web Development Intern at PD Case.
 
 ## 🚀 Technologies  
 
