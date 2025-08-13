@@ -1,6 +1,6 @@
 # 💻 Leonardo Chiari Maciel  
 
-🎓 Information Systems Student at Federal University of Minas Gerais (UFMG), currently in my 4th semester. Passionate about technology and always looking for new learning opportunities.
+🎓 Information Systems Student at Federal University of Minas Gerais (UFMG), currently in my 5th semester. Passionate about technology and always looking for new learning opportunities.
 
 💼 Working as a Web Development Intern at PD Case.
 
